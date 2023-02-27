@@ -1,0 +1,2 @@
+# FAQ
+Teamlead bootcamp FAQ
